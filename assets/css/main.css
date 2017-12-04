@@ -1,0 +1,15 @@
+body{
+  padding-top: 4.375em;
+}
+
+.jumbotron h2{
+  font-size: 63px;
+}
+
+section, .btns-container, .bdgs-container{
+  margin-bottom: 1em;
+}
+
+.dragonfly{
+  width: 12.5em;
+}
